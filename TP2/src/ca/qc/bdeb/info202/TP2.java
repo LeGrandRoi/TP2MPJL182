@@ -22,6 +22,7 @@ public class TP2 {
         System.out.println("Lol");
         
         System.out.println("salut");
+        String allo ="allo";
     }
     
 }
