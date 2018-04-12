@@ -24,7 +24,7 @@ public class TP2 {
         System.out.println("salut");
         String allo ="allo";
         
-        int allo;
+        System.out.println("lel");
     }
     
 }
