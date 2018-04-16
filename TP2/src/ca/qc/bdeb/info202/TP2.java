@@ -23,6 +23,11 @@ public class TP2 {
         
         System.out.println("salut");
         String allo ="allo";
+<<<<<<< HEAD
+=======
+        
+        System.out.println("lel");
+>>>>>>> e1a8ff3360731a342991742e3102bfade7765480
     }
     
 }
